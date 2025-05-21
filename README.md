@@ -2,7 +2,9 @@
 
 This project provides an input driver for the SPI keyboard, trackpad, Touch Bar, and ambient light sensor (ALS) found on 12" MacBooks (2015+) and MacBook Pros (Late 2016–Mid 2018). This document is a concise version tailored specifically for the **MacBookPro14,1 (2017)**.
 
+
 ---
+
 
 ## Kernel Compatibility
 
